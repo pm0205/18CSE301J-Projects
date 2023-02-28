@@ -72,7 +72,7 @@
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
-| 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
+| 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link](https://pm0205.github.io/18CSE301J_RA2011003011045/) | 2 | :white_check_mark: |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
@@ -120,5 +120,5 @@
 | 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link]() | 2 | |
 | 118 |	SURYA PRAKASH S (RA2011030010137) | [Link]() | 2 | |
 | 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link]() | 2 | |
-| 120 |	Arjun Dev Singla (RA2011031010074) | [Link](https://arjundevsingla.github.io/18CSE301J_RA2011031010074/) | 2 | :white_check_mark: |
+| 120 |	Arjun Dev Singla (RA2011031010074) | [Link]() | 2 | |
 | 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link]() | 2 | |
